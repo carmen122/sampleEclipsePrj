@@ -17,6 +17,7 @@ public class GSonParseExample {
 		//String json = "{\"brand\" : \"Toyota\", \"doors\" : 5}";
 
 		String inline = "";
+		String deneme = "denemebirki";
 
 		try {
 			
